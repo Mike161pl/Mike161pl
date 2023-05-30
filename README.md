@@ -56,6 +56,6 @@ I am an appropriate person if you are looking for the employee who:
 
 If you have any questions do not hesitate and ask me:
 
-![mail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)    michalplaszczak@o2.pl
+![mail Badge](https://img.shields.io/badge/-mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)    michalplaszczak@o2.pl
 
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)   [https://www.linkedin.com/in/michal-plaszczak/](https://www.linkedin.com/in/michal-plaszczak/)
