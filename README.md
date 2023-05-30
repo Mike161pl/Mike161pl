@@ -4,7 +4,7 @@
 ## 🙋‍♂️ Author 
 &nbsp;
 
-I am Michał Plaszczak
+<h1 align="center">Hi 👋, I'm Michał</h1>
 
 I have found myself especially in creating front-end web applications however the building responsive websides also makes me fun. I have completed the Individual Front-end Development Course with an experienced mentor Mateusz Bogolubow - [devmentor.pl](devmentor.pl).
 
@@ -35,7 +35,13 @@ I am an appropriate person if you are looking for the employee who:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+&nbsp;
+Check out some of my projects:
+- solution URL: (https://github.com/Mike161pl/task-html-and-css-rwd)
+- Live URL site: (https://mike161pl.github.io/task-html-and-css-rwd/) 
 
+- solution URL: ((https://github.com/Mike161pl/music-page)
+- Live URL site: ((https://mike161pl.github.io/music-page/)
 
 &nbsp;
 
