@@ -10,8 +10,9 @@ I have found myself especially in creating front-end web applications however th
 
 What I am currently devoting to?
 
-- I'm delving into React.
+- I delve into React and TypeScript.
 - I'm looking for a job to create amazing apps and webs, as well as to develop my skills that will benefit in the further work .
+- And I have fun creating new projects.
 
 What else makes me fun?
 
