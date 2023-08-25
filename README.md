@@ -58,22 +58,16 @@ Check out some of my projects:
 
 <h3>React App</h3>
 &nbsp;
-
 - solution URL: (https://github.com/Mike161pl/wypozyczalnia-VOD)
 - Live URL site: (https://react-wyszukiwarka.web.app/)
-
 &nbsp;
-
 <h3>Company Website</h3>
 &nbsp;
-
 - solution URL:(https://github.com/Mike161pl/auto_serwis)
 - Live URL site:  (https://www.lukaautoserwis.com/)
 &nbsp;
-
 <h3>Project Music Page</h3>
 &nbsp;
-
 - solution URL: (https://github.com/Mike161pl/music-page)
 - Live URL site: (https://mike161pl.github.io/music-page/)
 
