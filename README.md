@@ -56,7 +56,7 @@ I am an appropriate person if you are looking for the employee who:
 Check out some of my projects:
 &nbsp;
 
-<h3 align="center">React App</h3>
+<h3>React App</h3>
 
 &nbsp;
 
@@ -65,7 +65,7 @@ Check out some of my projects:
 - 
 &nbsp;
 
-<h3 align="center">Company Website</h3>
+<h3>Company Website</h3>
 
 &nbsp;
 
@@ -74,7 +74,7 @@ Check out some of my projects:
 - 
 &nbsp;
 
-<h3 align="center">Project Music Page</h3>
+<h3>Project Music Page</h3>
 
 &nbsp;
 
