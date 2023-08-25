@@ -54,14 +54,22 @@ I am an appropriate person if you are looking for the employee who:
 
 &nbsp;
 Check out some of my projects:
+&nbsp;
 
+<h3 align="center">React App</h3>
+&nbsp;
 - solution URL: ([https://github.com/Mike161pl/task-html-and-css-rwd](https://github.com/Mike161pl/wypozyczalnia-VOD))
 - Live URL site: ([https://mike161pl.github.io/task-html-and-css-rwd/](https://react-wyszukiwarka.web.app/)) 
+&nbsp;
 
+<h3 align="center">Company Website</h3>
+&nbsp;
 - solution URL: ((https://github.com/Mike161pl/music-page)
 - Live URL site: ((https://mike161pl.github.io/music-page/)
+&nbsp;
 
-
+<h3 align="center">Project Music Page</h3>
+&nbsp;
 - solution URL: ([(https://github.com/Mike161pl/music-page)](https://www.lukaautoserwis.com/)
 - Live URL site: ([(https://mike161pl.github.io/music-page/](https://github.com/Mike161pl/auto_serwis))
 
