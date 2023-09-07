@@ -60,7 +60,7 @@ Check out some of my projects:
 &nbsp;
 - solution URL: (https://github.com/Mike161pl/wypozyczalnia-VOD)
 
-- Live URL site: (https://react-wyszukiwarka.web.app/)
+- Live URL site: (https://vod-react-app.web.app/)
 &nbsp;
 <h3>Company Website</h3>
 &nbsp;
