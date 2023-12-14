@@ -68,12 +68,11 @@ Check out some of my projects:
 
 - Live URL site:  (https://www.lukaautoserwis.com/)
 &nbsp;
-<h3>Project Music Page</h3>
+<h3>Połysk&Fresh</h3>
 &nbsp;
-- solution URL: (https://github.com/Mike161pl/music-page)
-
-- Live URL site: (https://mike161pl.github.io/music-page/)
-
+- solution URL: (https://github.com/Mike161pl/cleancompany)
+  
+- Live URL site: (https://polyskfresh.pl/)
 &nbsp;
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
